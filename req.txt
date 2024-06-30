@@ -1,3 +1,5 @@
 google-api-python-client 
 pytube 
 sqlite3
+instaloader
+TikTokApi
