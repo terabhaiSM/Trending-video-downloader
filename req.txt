@@ -3,3 +3,4 @@ pytube
 sqlite3
 instaloader
 TikTokApi
+instabot
